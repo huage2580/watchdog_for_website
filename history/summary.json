@@ -4,7 +4,7 @@
     "url": "https://api.master2app.com/ping/pong",
     "icon": "https://icons.duckduckgo.com/ip3/api.master2app.com.ico",
     "slug": "ol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 719,
     "timeMonth": 701,
     "timeYear": 740,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-16": 0
+    }
   }
 ]
