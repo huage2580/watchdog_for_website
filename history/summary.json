@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.master2app.com.ico",
     "slug": "ol",
     "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "8.18%",
-    "uptimeWeek": "86.88%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "98.98%",
+    "uptime": "97.89%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "72.69%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "97.89%",
     "time": 740,
     "timeDay": 0,
-    "timeWeek": 749,
-    "timeMonth": 700,
+    "timeWeek": 796,
+    "timeMonth": 699,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2022-10-17": 128,
+      "2022-10-18": 118,
+      "2022-10-17": 1440,
       "2022-10-16": 1194
     }
   }
